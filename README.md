@@ -1,1 +1,8 @@
 # bank-customer-churn
+
+In this capstone project, the author has selected the customer churn in banking sector of financial industry as the capstone project. Customer churn refers to phenomenon where customers cease their relationship with an account or switch to a competitor. In the banking sector, the churn occurs when customers close their accounts, cease using banking services or transfer funds to another institution. It is beneficial for banks to understand the reasons with regard to a customer client’s decision to leave the banking organization. The competitive environment surrounding the banking services provided by different banking organizations creates an absolute importance case of retaining customer clients.
+The data for this capstone project was obtained from dataset called Customer-Churn-Records.csv. This dataset contains information of customer data of account holders at anonymous multinational bank. 
+The methodology incorporated in this research includes multiple supervised machine learning algorithms applied on customer data of account holders at anonymous multinational bank with the aim of predicting the customer churn. 
+The results outcome is the Decision Tree technique applied has the best prediction accuracy compared to Logistic Regression, K-Nearest Neighbors, Naïve Bayes, Support Vector Machines models. 
+The investigation showcases the customers using a greater number of banking products accompanied with greater bank balance have stronger relationship with the bank and are key factors in predicting customer churn. 
+Customer churn prevention would allow banking organizations to work on creating loyalty programs and promote campaigns to retain as many customer clients as feasible.  
